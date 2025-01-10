@@ -7,6 +7,9 @@ public class MathematicalOperators {
         x = 10;
         y = 5;
         answer = x+y;
+        answer = x-y;
+        answer = x/y;
+        answer = x%y;
         System.out.println("Answer = "+answer);
     }
 }
