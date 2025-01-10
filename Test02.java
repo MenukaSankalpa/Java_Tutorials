@@ -4,9 +4,10 @@ public class Test02 {
         int x = 10;
         //x = x+1;
         //x++;
-        int y = x++;
+        //x--;
+        //int y = x++;
         System.out.println(x);
-        System .out.println(y);
+        //System .out.println(y);
 
 
     }
