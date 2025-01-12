@@ -1,7 +1,7 @@
 public class switchcase {
     public static void main(String args[])
     {
-        int weekday = 2;
+        int weekday = 12;
 
         switch(weekday)
         {
@@ -26,6 +26,8 @@ public class switchcase {
             case 7:
                 System.out.println("Today is Sunday");
                 break;
+            default:
+                System.out.println("Try again");
         }
     }
 }
