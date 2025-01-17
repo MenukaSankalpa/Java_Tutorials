@@ -1,0 +1,20 @@
+class phone
+{
+    string name;
+    string model;
+    string color;
+    int ram;
+
+
+    call()
+    {
+       //go to web browser
+       //enter url and search
+
+    }
+    browser internet()
+    {
+       //go to web browser
+       // enter url and search
+    }
+}
