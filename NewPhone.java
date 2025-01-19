@@ -1,5 +1,8 @@
 public class NewPhone extends OldPhone{
-    int x;
+    void browseInternet()
+    {
+
+    }
     public static void main(String[] args)
     {
         NewPhone obj2 = new NewPhone();
