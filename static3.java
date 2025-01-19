@@ -1,4 +1,4 @@
-public class static3 {
+/*public class static3 {
 
 
     void call(String name)
@@ -7,12 +7,12 @@ public class static3 {
     }
     public static void main(String[] args)
     {
-        Test phone1 = new Test();
+        Test phone = new Test();
         Test phone2 = new Test();
         Test phone3 = new Test();
-        phone1.call("nokia");
+        phone.call("nokia");
 
     }
-}
+}*/
 
 

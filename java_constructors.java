@@ -1,6 +1,8 @@
 public class java_constructors {
+    String name;
     java_constructors()
     {
+        name = "Sham";
         System.out.println("Welcome tom");
     }
     void meth()
@@ -13,6 +15,8 @@ public class java_constructors {
     {
         java_constructors obj = new java_constructors();
         obj.meth();
+        System.out.println(obj.name);
+
 
     }
 
